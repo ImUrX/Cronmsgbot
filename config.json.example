@@ -1,0 +1,6 @@
+{
+	"token": "MCZAs12415gGG",
+	"channel": "241421",
+	"messages": ["this is a message"],
+	"cron": "0 0 0 * * *"
+}
